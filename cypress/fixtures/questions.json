@@ -1,0 +1,84 @@
+[
+  {
+    "Question 1": "Which is the correct answer?",
+    "The answer for 1 is:": [
+      { "text": "Correct", "isCorrect": true },
+      { "text": "Almost", "isCorrect": false },
+      { "text": "Not Quite", "isCorrect": false },
+      { "text": "Not Close", "isCorrect": false }
+    ],
+
+    "Question 2": "What is my favorite color?",
+    "The answer for 2 is:": [
+      { "text": "Blue", "isCorrect": true },
+      { "text": "Yellow", "isCorrect": true },
+      { "text": "Black", "isCorrect": true },
+      { "text": "Brown", "isCorrect": false }
+    ],
+
+    "Question 3": "What is the coolest weapon?",
+    "The answer for 3 is:": [
+      { "text": "Mace", "isCorrect": true },
+      { "text": "Pike", "isCorrect": true },
+      { "text": "Sheild", "isCorrect": false },
+      { "text": "Sword", "isCorrect": false }
+    ],
+
+    "Question 4": "What is your favorite type of tea?",
+    "The answer for 4 is:": [
+      { "text": "I don't like tea", "isCorrect": false },
+      { "text": "Coffee", "isCorrect": false },
+      { "text": "Chai", "isCorrect": false },
+      { "text": "Depends", "isCorrect": true }
+    ],
+
+    "Question 5": "Is this test real?",
+    "The answer for 5 is:": [
+      { "text": "In a way", "isCorrect": true },
+      { "text": "Is anything real?", "isCorrect": false },
+      { "text": "Yes", "isCorrect": false },
+      { "text": "No", "isCorrect": true }
+    ],
+
+    "Question 6": "Cats are cute.",
+    "The answer for 6 is:": [
+      { "text": "Yes", "isCorrect": true },
+      { "text": "Yes", "isCorrect": true },
+      { "text": "Yes", "isCorrect": true },
+      { "text": "Yes", "isCorrect": true }
+    ],
+
+    "Question 7": "Will I pass this bootcamp?",
+    "The answer for 7 is:": [
+      { "text": "Uncertain", "isCorrect": true },
+      { "text": "Absolutely", "isCorrect": true },
+      { "text": "No", "isCorrect": true },
+      { "text": "I hope you do", "isCorrect": true }
+    ],
+
+    "Question 8": "What season?",
+    "The answer for 8 is:": [
+      { "text": "Salt", "isCorrect": false },
+      { "text": "Winter", "isCorrect": true },
+      { "text": "Rib Rub", "isCorrect": false },
+      { "text": "Plain", "isCorrect": false }
+    ],
+
+    "Question 9": "What is Cloud?",
+    "The answer for 9 is:": [
+      { "text": "Cloud 9", "isCorrect": true },
+      { "text": "A FF Character", "isCorrect": true },
+      { "text": "Cotton Candy", "isCorrect": false },
+      { "text": "Ivory soap", "isCorrect": false }
+    ],
+
+    "Question 10": "Why did I bother with all of these questions?",
+    "The answer for 10 is:": [
+      { "text": "I was bored", "isCorrect": false },
+      { "text": "I wanted an actual test", "isCorrect": true },
+      { "text": "It was a requirement", "isCorrect": false },
+      { "text": "I'm not sure", "isCorrect": true }
+    ]
+  }
+]
+
